@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on HTML, CSS, JS , TS , Nodejs, Tailwindcss 
 - 🌱 I’m currently learning JavaScript, HTML5, CSS3, Bootstrap, React , React Native , Backend
 - 📫 How to reach me: 
-[sariogluadu55@gmail.com](mailto:sariogluadu55@gmail.com)  
+  1aylinsarioglu@gmail.com](mailto:1aylinsarioglu@gmail.com)  
 
 --------
 
