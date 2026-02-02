@@ -5,7 +5,7 @@ web and mobile interfaces with React and React Native.
 - 📱 React Native | 🌐 React | TypeScript | JavaScript  
 - 🎯 Focus: Mobile UI/UX, performance, component-based architecture  
 - 🚀 Improving my frontend and mobile development skills through real-world projects
-- 📩 Contact: aylinsarioglu@gmail.com
+- 📩 Contact: 1aylinsarioglu@gmail.com
 - 
 --------
 
