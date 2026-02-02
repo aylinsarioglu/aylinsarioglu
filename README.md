@@ -35,9 +35,4 @@ web and mobile interfaces with React and React Native.
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
 
----------
-
-### 📊 GitHub Stats
-
-![Aylin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aylnsarolu&show_icons=true&theme=tokyonight)
 
