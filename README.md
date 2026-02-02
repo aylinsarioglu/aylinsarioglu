@@ -1,13 +1,12 @@
 ## Hi there 👋 I'm Aylin
 
-- 👀 I’m interested in Software Development,Frontend,Nodejs Backend,React Native Mobil Development  
-- 👀 I am interested in software development and technology.
-- 🤭 I love learning new things and software  
-- 🔭 I’m currently working on HTML, CSS, JS , TS , Nodejs, Tailwindcss 
-- 🌱 I’m currently learning JavaScript, HTML5, CSS3, Bootstrap, React , React Native , Backend
-- 📫 How to reach me: 
-  1aylinsarioglu@gmail.com
-
+- I’m a Frontend Developer building modern and user-focused
+web and mobile interfaces with React and React Native.
+- 📱 React Native | 🌐 React | TypeScript | JavaScript  
+- 🎯 Focus: Mobile UI/UX, performance, component-based architecture  
+- 🚀 Improving my frontend and mobile development skills through real-world projects
+- 📩 Contact: aylinsarioglu@gmail.com
+- 
 --------
 
 ### 🌐 Sosyal Medya:  
@@ -17,17 +16,22 @@
 ---------
 
 ### 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss) 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react) 
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+
+#### 📱 Mobile & Frontend
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+
+#### 🎨 Styling
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+
+#### 🛠 Tools
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+hields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
 
