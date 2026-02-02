@@ -37,6 +37,6 @@ web and mobile interfaces with React and React Native.
 
 ------------
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
 
-![Aylin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aylinsarioglu&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=aylinsarioglu&theme=tokyonight)
