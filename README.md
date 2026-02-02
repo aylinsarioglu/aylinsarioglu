@@ -36,7 +36,3 @@ web and mobile interfaces with React and React Native.
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
 
 ------------
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aylinsarioglu&theme=tokyonight)
