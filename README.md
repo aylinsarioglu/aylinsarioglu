@@ -28,14 +28,16 @@ web and mobile interfaces with React and React Native.
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 
-#### 🛠 Tools
+### 🛠 Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-hields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
 
 ---------
 
-### 📊 GitHub İstatistikleri:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aylinsarioglu&show_icons=true&theme=radical)  
+### 📊 GitHub Stats
+
+![Aylin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aylnsarolu&show_icons=true&theme=tokyonight)
+
